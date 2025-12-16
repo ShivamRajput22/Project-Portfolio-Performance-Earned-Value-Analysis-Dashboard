@@ -6,9 +6,7 @@ This project presents a comprehensive **Project Portfolio Performance Dashboard*
 The primary objective was to move beyond basic budget tracking and provide a clear, evidence-based view of how **actual spend, planned progress, and earned value** align in practice. The dashboard is designed to support early identification of execution issues, highlight risk concentration, and enable informed intervention before delays and cost overruns escalate.
 
 ## 🌐 Live Dashboard Access
-Due to Power BI tenant access restrictions, the interactive version of this dashboard cannot be shared publicly.
-
-The full interactive Power BI report is available **on request** for review and discussion.
+Link - https://github.com/ShivamRajput22/Project-Portfolio-Performance-Earned-Value-Analysis-Dashboard/blob/main/Project_Performance_Dashboard_AR.pbix
 
 ## 🧭 Business Context
 The portfolio includes two concurrent construction projects:
