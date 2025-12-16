@@ -20,7 +20,7 @@ This dashboard was designed to close that gap.
 ## 🖼️ Dashboard Preview
 
 ### 🏠 Portfolio Overview
-![Portfolio Overview](image/Portfolio Overview.png)
+![Portfolio Overview](image/home_page.png)
 
 ### 📊 Variance Analysis
 ![Variance Analysis](image/variance_analysis.png)
